@@ -16,35 +16,35 @@ export default function FAQ() {
           <section className="bg-white/10 p-6 rounded-lg">
             <h2 className="text-xl font-semibold mb-3">What is Book Tracker PDF?</h2>
             <p>
-              Book Tracker PDF is a web-based tool that helps you track your reading progress, manage your reading lists, and generate reading statistics. It's designed to be simple, efficient, and user-friendly for book lovers.
+              Book Tracker PDF is a web-based tool that helps you track your reading progress, manage your reading lists, and generate reading statistics. It&apos;s designed to be simple, efficient, and user-friendly for book lovers.
             </p>
           </section>
 
           <section className="bg-white/10 p-6 rounded-lg">
             <h2 className="text-xl font-semibold mb-3">How do I start tracking my books?</h2>
             <p>
-              Simply use the "Add Book" form on the homepage to add a new book. You can specify the book's title, author, and current status (TBR, Active, or Completed). Once added, you can track your progress and update the status as needed.
+              Simply use the &quot;Add Book&quot; form on the homepage to add a new book. You can specify the book&apos;s title, author, and current status (TBR, Active, or Completed). Once added, you can track your progress and update the status as needed.
             </p>
           </section>
 
           <section className="bg-white/10 p-6 rounded-lg">
             <h2 className="text-xl font-semibold mb-3">Is my data stored securely?</h2>
             <p>
-              Yes, all your data is stored locally on your device. We don't store any personal information on our servers. Your reading data remains under your control at all times.
+              Yes, all your data is stored locally on your device. We don&apos;t store any personal information on our servers. Your reading data remains under your control at all times.
             </p>
           </section>
 
           <section className="bg-white/10 p-6 rounded-lg">
             <h2 className="text-xl font-semibold mb-3">Can I export my reading data?</h2>
             <p>
-              Yes! You can export your reading data and statistics as a PDF file using the "Export PDF" button on the homepage. This allows you to keep a record of your reading journey or share it with others.
+              Yes! You can export your reading data and statistics as a PDF file using the &quot;Export PDF&quot; button on the homepage. This allows you to keep a record of your reading journey or share it with others.
             </p>
           </section>
 
           <section className="bg-white/10 p-6 rounded-lg">
             <h2 className="text-xl font-semibold mb-3">How do I update my reading progress?</h2>
             <p>
-              For active books, you can update your progress by clicking on the book in the "Active Reading" section. You can modify the current page, status, and other details as needed.
+              For active books, you can update your progress by clicking on the book in the &quot;Active Reading&quot; section. You can modify the current page, status, and other details as needed.
             </p>
           </section>
 
@@ -72,7 +72,7 @@ export default function FAQ() {
           <section className="bg-white/10 p-6 rounded-lg">
             <h2 className="text-xl font-semibold mb-3">How can I get help or report an issue?</h2>
             <p>
-              If you need help or want to report an issue, please contact us at [Your Contact Email]. We're always happy to assist our users and improve our service based on feedback.
+              If you need help or want to report an issue, please contact us at [Your Contact Email]. We&apos;re always happy to assist our users and improve our service based on feedback.
             </p>
           </section>
         </div>

@@ -15,7 +15,7 @@ export default function About() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
           <p className="mb-4">
-            At Book Tracker PDF, we're passionate about helping readers organize their reading journey. Our mission is to provide a simple, efficient, and user-friendly tool that helps book lovers track their reading progress, manage their reading lists, and gain insights into their reading habits.
+            At Book Tracker PDF, we&apos;re passionate about helping readers organize their reading journey. Our mission is to provide a simple, efficient, and user-friendly tool that helps book lovers track their reading progress, manage their reading lists, and gain insights into their reading habits.
           </p>
         </section>
 

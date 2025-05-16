@@ -46,7 +46,7 @@ export default function PrivacyPolicy() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">4. Third-Party Services</h2>
           <p className="mb-4">
-            We use Google AdSense for advertising. Google may collect and process data according to their privacy policy. You can review Google's privacy policy at any time.
+            We use Google AdSense for advertising. Google may collect and process data according to their privacy policy. You can review Google&apos;s privacy policy at any time.
           </p>
         </section>
 

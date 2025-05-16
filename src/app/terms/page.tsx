@@ -22,7 +22,7 @@ export default function Terms() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">2. Service Description</h2>
           <p className="mb-4">
-            Book Tracker PDF is a tool designed to help users track their reading progress, manage their reading lists, and generate reading statistics. The service is provided "as is" and may be modified or discontinued at any time.
+            Book Tracker PDF is a tool designed to help users track their reading progress, manage their reading lists, and generate reading statistics. The service is provided &quot;as is&quot; and may be modified or discontinued at any time.
           </p>
         </section>
 
