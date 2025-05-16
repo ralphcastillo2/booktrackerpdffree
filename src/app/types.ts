@@ -8,4 +8,11 @@ export type Book = {
   startDate?: string;
   notes: string[];
   favoriteQuotes: string[];
+};
+
+export type Stats = {
+  totalBooks: number;
+  booksCompleted: number;
+  booksInProgress: number;
+  pagesReadThisMonth: number;
 }; 
